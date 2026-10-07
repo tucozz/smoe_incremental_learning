@@ -1,0 +1,5 @@
+data/
+results/_partial/
+*.tmp
+__pycache__/
+.ipynb_checkpoints/
